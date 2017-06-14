@@ -1,0 +1,15 @@
+/home/danila/javaTask/src/main/java/epam/homework/gameSettings/Main.java
+/home/danila/javaTask/src/main/java/epam/homework/zombies/HardHatZombie.java
+/home/danila/javaTask/src/main/java/epam/homework/enums/BodyProtection.java
+/home/danila/javaTask/src/main/java/epam/homework/zombies/ProtectedZombie.java
+/home/danila/javaTask/src/main/java/epam/homework/enums/HeadProtection.java
+/home/danila/javaTask/src/main/java/epam/homework/enums/ZombieSpeed.java
+/home/danila/javaTask/src/main/java/epam/homework/zombies/Gargantuar.java
+/home/danila/javaTask/src/main/java/epam/homework/annotations/DifficultyHistory.java
+/home/danila/javaTask/src/main/java/epam/homework/zombies/Zombie.java
+/home/danila/javaTask/src/main/java/epam/homework/enums/GameDifficulty.java
+/home/danila/javaTask/src/main/java/epam/homework/interfaces/Movable.java
+/home/danila/javaTask/src/main/java/epam/homework/annotations/Date.java
+/home/danila/javaTask/src/main/java/epam/homework/annotations/ItIsAZombieClass.java
+/home/danila/javaTask/src/main/java/epam/homework/exceptions/IllegalDifficultyValueException.java
+/home/danila/javaTask/src/main/java/epam/homework/gameSettings/DifficultySelection.java
